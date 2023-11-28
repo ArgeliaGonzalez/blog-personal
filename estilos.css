@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(229, 215, 241);
+  
+}
+
+.contenedor{
+    background-color: rgba(176, 128, 240, 0.11);
+    color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar{
+    display: flex;
+    justify-content: row;
+}
+
+.logo img{
+    width: 142px; 
+    height: 120px;
+    margin-right: 160px;
+}
+
+.li{
+    justify-content: right ;
+}
+.navegacion{
+    width: 50%;
+}
+
+.navegacion ul li{
+    display: inline;
+}
+li a{
+    justify-content: center;
+}
+.texto{
+    padding-top: 100px;
+    padding-left: 350px;
+    padding-right: 300px;
+    font-size: 40px;
+    justify-content: center;
+}
